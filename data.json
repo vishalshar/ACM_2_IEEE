@@ -1,0 +1,217 @@
+
+ [{"0":"etter2013launch",
+	"title":"Launch hard or go home!: predicting the success of kickstarter campaigns",
+	"author":"Etter, Vincent and Grossglauser, Matthias and Thiran, Patrick",
+	"booktitle":"COSN",
+	"year":"2013"
+},
+
+
+ {"0":"Mitra:2014",
+	"author" : "Mitra, Tanushree and Gilbert, Eric",
+	"title" : "The Language That Gets People to Give: Phrases That Predict Success on Kickstarter",
+	"booktitle" : "CSCW",
+	"year" : "2014"
+},
+
+
+
+
+ {"0":"an2014recommending",
+	"title":"Recommending investors for crowdfunding projects",
+	"author":"An, Jisun and Quercia, Daniele and Crowcroft, Jon",
+	"booktitle":"WWW",
+	"year":"2014"
+},
+
+{ "0":"rakesh2015project",
+	"title":"Project recommendation using heterogeneous traits in crowdfunding",
+	"author":"Rakesh, Vineeth and Choo, Jaegul and Reddy, Chandan K",
+	"booktitle":"ICWSM",
+	"year":"2015"
+},
+
+{ "0":"rakesh2016probabilistic",
+	"title":"Probabilistic Group Recommendation Model for Crowdfunding Domains",
+	"author":"Rakesh, Vineeth and Lee, Wang-Chien and Reddy, Chandan K",
+	"booktitle":"WSDM",
+	"year":"2016"
+},
+
+{ "0":"xu2014show",
+	"title":"Show me the money!: an analysis of project updates during crowdfunding campaigns",
+	"author":"Xu, Anbang and Yang, Xiao and Rao, Huaming and Fu, Wai-Tat and Huang, Shih-Wen and Bailey, Brian P",
+	"booktitle":"CHI",
+	"year":"2014"
+},
+
+ {"0":"Gerber:2013",
+	"author" : "Gerber, Elizabeth M. and Hui, Julie",
+	"title" : "Crowdfunding: Motivations and Deterrents for Participation",
+	"journal" : "ACM Trans. Comput.-Hum. Interact.",
+	"year" : "2013",
+	"publisher" : "ACM"
+},
+
+
+ {"0":"hui2014understanding",
+	"title":"Understanding the role of community in crowdfunding work",
+	"author":"Hui, Julie S and Greenberg, Michael D and Gerber, Elizabeth M",
+	"booktitle":"CSCW",
+	"year":"2014"
+},
+
+{"0":"lu2014identifying",
+	"title":"Identifying your customers in social networks",
+	"author":"Lu, Chun-Ta and Shuai, Hong-Han and Yu, Philip S",
+	"booktitle":"CIKM",
+	"year":"2014"
+},
+
+ {"0":"lu2014inferring",
+	"title":"Inferring the impacts of social media on crowdfunding",
+	"author":"Lu, Chun-Ta and Xie, Sihong and Kong, Xiangnan and Yu, Philip S",
+	"booktitle":"WSDM",
+	"year":"2014"
+},
+{"0":"mollick:2014",
+	"title":"The dynamics of crowdfunding: An exploratory study",
+	"author":"Mollick, Ethan",
+	"journal":"journal of Business Venturing",
+	"year":"2014"
+	
+},
+
+ {"0":"belleflamme2014crowdfunding",
+	"title":"Crowdfunding: Tapping the right crowd",
+	"author":"Belleflamme, Paul and Lambert, Thomas and Schwienbacher, Armin",
+	"journal":"journal of business venturing",
+	"year":"2014",
+	"publisher":"Elsevier"
+},
+ 
+{"0":"cumming2014crowdfunding",
+	"title":"Crowdfunding models: Keep-it-all vs. all-or-nothing",
+	"author":"Cumming, Douglas J and Leboeuf, Gael and Schwienbacher, Armin",
+	"booktitle":"SSRN",
+	"year":"2014"
+},
+
+ {"0":"siering2016detecting",
+	"title":"Detecting Fraudulent Behavior on Crowdfunding Platforms: The Role of Linguistic and Content-Based Cues in Static and Dynamic Contexts",
+	"author":"Siering, Michael and Koch, Jascha-Alexander and Deokar, Amit V",
+	"journal":"journal of Management Information Systems",
+	"year":"2016",
+	"publisher":"Taylor & Francis"
+},
+
+
+ {"0":"tran2017characteristics",
+	"title":"Characteristics of On-time and Late Reward Delivery Projects",
+	"author":"Thanh Tran and Kyumin Lee",
+	"booktitle":"ICWSM",
+	"year":"2017"
+},
+
+
+ {"0":"mcauley2016addressing",
+	"title":"Addressing complex and subjective product-related queries with customer reviews",
+	"author":"McAuley, Julian and Yang, Alex",
+	"booktitle":"WWW",
+	"year":"2016"
+},
+
+
+ {"0":"narayanan2013fast",
+	"title":"Fast and accurate sentiment classification using an enhanced Naive Bayes model",
+	"author":"Narayanan, Vivek and Arora, Ishan and Bhatia, Arjun",
+	"booktitle":"IDEAL",
+	"year":"2013"
+},
+
+
+ {"0":"blei2003latent",
+	"title":"Latent dirichlet allocation",
+	"author":"Blei, David M and Ng, Andrew Y and Jordan, Michael I",
+	"journal":"journal of machine Learning research",
+	"year":"2003"
+},
+
+ {"0":"deveaud2014accurate",
+	"title":"Accurate and effective latent concept modeling for ad hoc information retrieval",
+	"author":"Deveaud, Romain and SanJuan, Eric and Bellot, Patrice",
+	"journal":"Document numerique",
+	"year":"2014",
+	"publisher":"Lavoisier"
+},
+
+
+ {"0":"arun2010finding",
+	"title":"On finding the natural number of topics with latent dirichlet allocation: Some observations",
+	"author":"Arun, Rajkumar and Suresh, Venkatasubramaniyan and Veni Madhavan, C and Narasimha Murthy, M",
+	"journal":"Advances in Knowledge Discovery and Data Mining",
+	"year":"2010",
+	"publisher":"Springer"
+},
+
+
+ {"0":"lin2007projected",
+	"title":"Projected gradient methods for nonnegative matrix factorization",
+	"author":"Lin, Chih-Jen",
+	"journal":"Neural computation",
+	"year":"2007",
+	"publisher":"MIT Press"
+},
+
+ {"0":"manning2008introduction",
+	"title":"Introduction to information retrieval",
+	"author":"Manning, Christopher D and Raghavan, Prabhakar and Schutze, Hinrich and others",
+	"year":"2008",
+	"publisher":"Cambridge university press Cambridge"
+},
+
+
+ {"0":"liu2017sentiment",
+	"title":"Sentiment Analysis of Citations Using Word2vec",
+	"author":"Liu, Haixia",
+	"journal":"arXiv",
+	"year":"2017"
+},
+
+ {"0":"maas2011learning",
+	"title":"Learning word vectors for sentiment analysis",
+	"author":"Maas, Andrew L and Daly, Raymond E and Pham, Peter T and Huang, Dan and Ng, Andrew Y and Potts, Christopher",
+	"booktitle":"Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies-Volume 1",
+	"year":"2011"
+},
+
+ {"0":"sadeghian2015bag",
+	"title":"Bag of words meets bags of popcorn",
+	"author":"Sadeghian, Amir and Sharafat, Ali Reza",
+	"year":"2015"
+},
+
+ {"0":"mikolov2013efficient",
+	"title":"Efficient estimation of word representations in vector space",
+	"author":"Mikolov, Tomas and Chen, Kai and Corrado, Greg and Dean, Jeffrey",
+	"journal":"arXiv preprint arXiv:1301.3781",
+	"year":"2013"
+},
+
+ {"0":"draper2003recognizing",
+	"title":"Recognizing faces with PCA and ICA",
+	"author":"Draper, Bruce A and Baek, Kyungim and Bartlett, Marian Stewart and Beveridge, J Ross",
+	"journal":"Computer vision and image understanding",
+	"year":"2003",
+	"publisher":"Elsevier"
+},
+
+
+ {"0":"cutler2007random",
+	"title":"Random forests for classification in ecology",
+	"author":"Cutler, D Richard and Edwards, Thomas C and Beard, Karen H and Cutler, Adele and Hess, Kyle T and Gibson, Jacob and Lawler, Joshua J",
+	"journal":"Ecology",
+	"year":"2007",
+	"publisher":"Wiley Online Library"
+}
+]
