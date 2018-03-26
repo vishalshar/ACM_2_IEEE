@@ -1,14 +1,14 @@
 import json
 
-
+# data.json is in JSON converted from semantic scholar, replace '=' with ':'
 acm_data = json.load(open('./data.json', "r"))
 
+
+# Get authors name in required format only takes first and last name, does not consider middle names.
 def get_author(author):
     temp = author.split(',')
     temp = [x.replace(" ", "") for x in temp]
     return temp[-1][:1]+". "+temp[0]
-
-
 
 for ref in acm_data:
     cite = ref['0']
